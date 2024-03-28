@@ -17,4 +17,6 @@ public class main {
         // Imprimindo usuários após serem criados
         Menu.imprimirMenuListagemUsuarios(usuarios);
     }
+
+    //comentario pra testar merge
 }
